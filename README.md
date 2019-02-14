@@ -54,7 +54,7 @@ these can be found in `projectPath/build/test/out/`. Then, edit the `ceedlingExp
 
 Note: Individual test debugging is not supported. Instead the entire test file will be ran, so skip or remove breakpoints accordingly.
 
-Example configuration with Native Debug (`webfreak.debug`):
+Example configuration with `ms-vscode.cpptools`:
 ```json
 {
     "name": "Ceedling Test Explorer Debug",
